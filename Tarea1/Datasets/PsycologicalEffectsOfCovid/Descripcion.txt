@@ -1,0 +1,21 @@
+age: Age group of the person
+gender: Gender of the person
+occupation: Occupation/sector where the person works
+line_of_work: The line of work performed by the person
+time_bp: The time spent on work before pandemic
+time_dp: The time spent on work during pandemic
+travel_time: The travel time spent
+easeof_online: Rating of work going online
+home_env: Liking of home environment
+prod_inc: Rating Productivity Increase
+sleep_bal: The rating of sleep cycle
+new_skill: Whether any new skill was learnt
+fam_connect: Rating how well the person connected with his family
+relaxed: Rating of how relaxed the person is feeling
+self_time: Rating how much self time was procured
+like_hw: Liking of working from Home
+dislike_hw: Disliking Working from Home
+prefer: Preference of the person to work from home/office
+certaindays_hw: Liking whether certain days of working from home is needed
+time_bp_1: Custom Column
+travel+work: Custom Column

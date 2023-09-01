@@ -1,0 +1,10 @@
+Age: Age of the employee
+Attrition: employee attrition
+BusinessTravel: how frequently an employee travels for business purpose
+DailyRate: Daily wage of an employee
+Department: Employee department
+DistanceFromHome: Distance form home to office in KM's
+Education: Qualification of employee (masked)
+EducationField: Stream of Education
+EmployeeCount: Employee Count
+EmployeeNumber: Employee Number

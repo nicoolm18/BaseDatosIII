@@ -1,0 +1,10 @@
+rank: Rank of the company as per their revenue in 2021
+name: Name of the company
+revenues: Revenue they generated in 2021 (in US$ Million)
+revenue_percent_change: Revenue changed in 2021 over the previous year i.e., 2020
+profits: Profit they generated in the year
+profits_percent_change: Profit changed in 2021 over the previous year i.e., 2020
+assets: Worth of assets the company have in US$ Millions
+market_value: Market value of the company
+change_in_rank: Change in company's rank in 2021 from the last year
+employees: Number of people employed in their company
